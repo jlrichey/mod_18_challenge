@@ -14,17 +14,17 @@ For this challenge I assume the role of a fintech engineer working in the decent
 Below are screenshots for the web application using Streamlit technology.
 
 ### Web application showing blockchain with multiple blocks
-<img src="images/streamlit1.png" alt="drawing" width="600"/>
+<img src="images/streamlit1.png" alt="drawing" width="700"/>
 
 ### Web application showing the chain validation
 <small>(see `True` in bottom center of screenshot)</small>
-<img src="images/streamlit2_validated.png" alt="drawing" width="600"/>
+<img src="images/streamlit2_validated.png" alt="drawing" width="700"/>
 
 ### Chain validation zoomed in
 <img src="images/streamlit3_validated_closeup.png" alt="drawing" width="600"/>
 
 ### Close-up of expanded block inspector pulldown
-<img src="images/streamlit4_blockinspector_pulldown.png" alt="drawing" width="600"/>
+<img src="images/streamlit4_blockinspector_pulldown.png" alt="drawing" width="500"/>
 
 
 ## Project Steps
