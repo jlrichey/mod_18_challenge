@@ -45,7 +45,6 @@ Below are screenshots for the web application using Streamlit technology.
 <img src="images/streamlit4_blockinspector_pulldown.png" alt="drawing" width="500"/>
 
 ## Sources
-
 The following sources were consulted in the completion of this project. 
 
 * [pandas.Pydata.org API Reference](https://pandas.pydata.org/docs/reference/index.html)
