@@ -6,7 +6,32 @@
 
 For this challenge I assume the role of a fintech engineer working in the decentralized finance team for a top bank. The challenge is to build a blockchain-based ledger system with user-friendly web interface that will allow partner banks to send and receive money and verify the integrity of the data in the ledger. 
 
-## Dataset
+## End-user Instructions
+
+
+## Application Results
+
+Below are screenshots for the web application using Streamlit technology.
+
+### Web application showing blockchain with multiple blocks
+<img src="images/streamlit1.png" alt="drawing" width="600"/>
+
+### Web application showing the chain validation
+<small>(see `True` in bottom center of screenshot)</small>
+<img src="images/streamlit2_validated.png" alt="drawing" width="600"/>
+
+### Chain validation zoomed in
+<img src="images/streamlit3_validated_closeup.png" alt="drawing" width="600"/>
+
+### Close-up of expanded block inspector pulldown
+<img src="images/streamlit4_blockinspector_pulldown.png" alt="drawing" width="600"/>
+
+
+## Project Steps
+
+## Step 1: Create a Record Data Class
+
+## Step 2: Modify the Existing Data C
 
 Alphabet Soup has provided a dataset in `csv` format with over 34,000 records of previous organizations who received funding, including whether or not the funding recipient was ultimately successful. 
 
