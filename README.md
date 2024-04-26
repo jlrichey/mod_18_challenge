@@ -1,23 +1,10 @@
-# mod_18_challenge
+# Module 18 Challenge - PyChain Ledger
 
-
-
-
-
-
-
-
-
-
-
-
-# Module 13 Challenge - Venture Funding with Deep Learning
-
-<img src="images/AI_banner.png" alt="drawing" width="600"/>
+<img src="images/blockchain_header.png" alt="drawing" width="600"/>
 
 ## Overview
 
-For this challenge I assume the role of a risk management associate at Alphabet Soup, a venture capital firm. A Neural Network Model is built that predicts whether venture capital funding applicants will be successful if funded by the firm.
+For this challenge I assume the role of a fintech engineer working in the decentralized finance team for a top bank. The challenge is to build a blockchain-based ledger system with user-friendly web interface that will allow partner banks to send and receive money and verify the integrity of the data in the ledger. 
 
 ## Dataset
 
